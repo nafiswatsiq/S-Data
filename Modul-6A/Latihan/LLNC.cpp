@@ -51,7 +51,7 @@ void printL(){ //fungsi printL
 			temp = temp->next; //simpan data temp dgn data next
 		}
 	} else{
-		cout <<"\mList Kosong "; //meanmpilkan list kosong
+		cout <<"\nList Kosong "; //meanmpilkan list kosong
 	}
 }
 

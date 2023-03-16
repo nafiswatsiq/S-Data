@@ -1,4 +1,4 @@
-#include "../DLNCHT.cpp" //memanggil file DLNC.cpp
+#include "DLNCHT.cpp" //memanggil file DLNC.cpp
 
 main(){ //procedure main
     cout<<"Nama : NAFIS WATSIQ AMRULLOH";
